@@ -35,11 +35,7 @@ This project presents an interactive Power BI dashboard for analyzing e-commerce
 - COD accounted for 44% of transactions.
 - November recorded the highest monthly profit.
 
-## Dashboard Preview
 
-![Dashboard](dashboard.png)
-
----
 
 ## Project Files
 
